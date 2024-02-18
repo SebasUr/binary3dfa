@@ -18,6 +18,11 @@
         - pip install dfa
         - pip install automata-lib
 3. **Then just run python file directly with the interpreter or using a code editor**
+    - Open your console
+    - Run the following command:
+        ```
+        python binary3.py
+        ```
 
 4. **For the empty string just press enter on the input** 
         Then you should see " _The DFA accepts the string ''_ "
