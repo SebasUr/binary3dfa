@@ -19,4 +19,5 @@
         - pip install automata-lib
 3. **Then just run python file directly with the interpreter or using a code editor**
 
-4. **For the empty string just press enter on the input** Then you should see _The DFA accepts the string ''_
+4. **For the empty string just press enter on the input** 
+        Then you should see " _The DFA accepts the string ''_ "
