@@ -7,7 +7,7 @@
 ## System info
 - Operating System: Any actual windows version
 - Programming lenguage: Python
-- Tools: Python 3, DFA library, automata-lib 8.2.0
+- Tools: Python 3, DFA library, automata-lib
 
 ## How to run our implementation
 
